@@ -1,0 +1,9 @@
+# pip install -r requirements.txt
+
+opencv-python>=4.0.2
+scipy>=1.7.1
+pandas>=1.2.0
+timm>= 0.4.12
+fairscale>= 0.4.0
+h5py>= 3.7.0
+
