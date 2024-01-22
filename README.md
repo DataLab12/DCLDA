@@ -51,7 +51,7 @@ The overall and classwise performance considering VISDRONE as the source and UAV
 
 ## License
 
-Our code repository is under [Apache 2.0 license](/LICENSE). Codes Under projects/CenterNet2 are also under [Apache 2.0 license] (/LICENSE).`projects/CenterNet2/centernet/modeling/backbone/bifpn_fcos.py` are from [AdelaiDet](https://github.com/aim-uofa/AdelaiDet), which follows the original [non-commercial license](https://github.com/aim-uofa/AdelaiDet/blob/master/LICENSE). The code from detectron2 follows the original [Apache 2.0 license](LICENSE).
+Our code repository is under [Apache 2.0 license](/LICENSE). Codes Under projects/CenterNet2 are also under [Apache 2.0 license](/LICENSE).`projects/CenterNet2/centernet/modeling/backbone/bifpn_fcos.py` are from [AdelaiDet](https://github.com/aim-uofa/AdelaiDet), which follows the original [non-commercial license](https://github.com/aim-uofa/AdelaiDet/blob/master/LICENSE). The code from detectron2 follows the original [Apache 2.0 license](LICENSE).
 
 ## Citation
 
