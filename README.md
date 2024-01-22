@@ -16,7 +16,7 @@ $ pip install -r requirements.txt
 
 # Architecture
 
-![alt text](model_arch.png)
+![alt text](model_arch.pdf)
 
 # Train
 
