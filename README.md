@@ -8,7 +8,7 @@ IEEE JSTAR 2024 code
 **Note:** It is recommended to install CUDA version >= 11.0
 3. Clone the repository in local
 ```bash
-$ cd APLDA
+$ cd DCLDA
 $ python -m pip install -e CenterNet2
 $ cd CenterNet2
 $ pip install -r requirements.txt
