@@ -1,6 +1,11 @@
 # DCLDA
 IEEE JSTAR 2024 code 
 
+This repository is the implementation of the following two papers:
+
+1. [Domain Adaptation with Contrastive Learning for Object Detection in Satellite Imagery](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24745587.v1)
+2. [Unsupervised Domain Adaptation With Debiased Contrastive Learning and Support-Set Guided Pseudolabeling for Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/10380690)
+
 ## Installation
 
 1. Create and activate a new conda environment (Recommended to use Python>=3.9)
